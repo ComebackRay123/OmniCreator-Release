@@ -214,6 +214,45 @@ Transform scripts into professional videos with AI-generated content, text-to-sp
 
 ---
 
+## 📸 Interface Overview
+
+### Script Tab
+Generate AI-powered scripts with real-time analysis, word count tracking, and 8-minute segment markers for long-form content.
+
+![Script Tab](screenshots/01_script_tab.png)
+
+### Workflow Tab
+Orchestrate the complete video pipeline: configure content sources (video/images), generate TTS audio, and manage scene-based rendering.
+
+![Workflow Tab](screenshots/02_workflow_tab.png)
+
+### Render Tab
+Compose final videos with captions, transitions, Ken Burns effects, and background music. Monitor progress in real-time.
+
+![Render Tab](screenshots/03_render_tab.png)
+
+### Upload Tab
+Authenticate with YouTube OAuth2, schedule uploads with cron syntax, and manage playlists/channels.
+
+![Upload Tab](screenshots/04_upload_tab.png)
+
+### Content Library Tab
+Track video topics, detect duplicates with AI similarity checking, and get intelligent topic suggestions based on your content history.
+
+![Content Library Tab](screenshots/05_content_library_tab.png)
+
+### Keys Tab
+Securely manage API keys for OpenAI, Google Gemini, Deepgram, ElevenLabs, Stability AI, and video sources.
+
+![Keys Tab](screenshots/06_keys_tab.png)
+
+### Settings Tab
+Configure video resolution, FPS, TTS voices, AI providers, caption styles, and advanced rendering options.
+
+![Settings Tab](screenshots/07_settings_tab.png)
+
+---
+
 ## 💡 Pro Tips
 
 ### Cost Optimization
