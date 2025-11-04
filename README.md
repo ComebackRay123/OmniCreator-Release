@@ -313,7 +313,7 @@ Transform scripts into professional videos with AI-generated content, text-to-sp
 
 ## 🙏 Acknowledgments
 
-Built with [Claude Code](https://claude.com/claude-code) - AI-powered development assistant
+Built with [SoloDev](https://solodev.app) - AI-powered development assistant
 
 ---
 
