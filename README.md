@@ -311,9 +311,9 @@ Transform scripts into professional videos with AI-generated content, text-to-sp
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Credits
 
-Built with [SoloDev](https://solodev.app) - AI-powered development assistant
+Developed by [SoloDev](https://solodev.app)
 
 ---
 
